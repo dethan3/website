@@ -28,6 +28,12 @@ export default function Home() {
         >
           Dework
         </Link>
+        <Link
+          href="https://www.notion.so/aastar/AAStar-f9afb521bab84dfbb077dc3628240aa0"
+          className="bg-stone-500 hover:bg-purple-600 text-white px-4 py-2 rounded"
+        >
+          Notion
+        </Link>
       </div>
     </div>
   );
