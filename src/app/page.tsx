@@ -36,7 +36,7 @@ export default function Home() {
         </Link>
         <Link
           href="https://ethglobal.com/showcase/airaccount-swqix"
-          className="bg-stone-500 hover:bg-purple-600 text-white px-4 py-2 rounded"
+          className="bg-yellow-500 hover:bg-orange-300 text-white px-4 py-2 rounded"
         >
         Istanbul Hackathon
         </Link>        
