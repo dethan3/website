@@ -34,6 +34,12 @@ export default function Home() {
         >
           Notion
         </Link>
+        <Link
+          href="https://ethglobal.com/showcase/airaccount-swqix"
+          className="bg-stone-500 hover:bg-purple-600 text-white px-4 py-2 rounded"
+        >
+        Istanbul Hackathon
+        </Link>        
       </div>
     </div>
   );
