@@ -40,6 +40,12 @@ export default function Home() {
         >
         Istanbul Hackathon
         </Link>        
+        <Link
+          href="https://AAStar.io"
+          className="bg-yellow-500 hover:bg-orange-300 text-white px-4 py-2 rounded"
+        >
+        AAStar Official
+        </Link>         
       </div>
     </div>
   );
