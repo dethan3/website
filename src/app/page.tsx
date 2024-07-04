@@ -6,7 +6,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen">
       <Image src="/logo.png" width={400} height={400} alt="AAStar Logo" />
       <div className="whitespace-nowrap">
-        <h1 className="text-4xl font-bold">AAStar</h1><h1 className="text-4xl font-bold text-emerald-500 text-justify">^</h1>
+        <h1 className="text-4xl font-bold">AAStar <span className="text-emerald-500">^</span></h1>
       </div>  
       <p className="text-lg text-center mb-8">
         Leveraging the Power of Community for AA Ecosystem
